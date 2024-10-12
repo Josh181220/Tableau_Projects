@@ -12,5 +12,5 @@ Here are some of the Tableau projects I've worked on, featuring 📊 dashboards,
 
 Feel free to take a look and explore! 🎉
 
-You can also view some of my projects on my Tableau Public link below:
+You can also view some of my projects on my Tableau Public link:
 https://public.tableau.com/app/profile/josh.salvador/vizzes
